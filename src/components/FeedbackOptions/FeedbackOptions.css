@@ -1,0 +1,10 @@
+.FeedbackButton__list {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    padding-left: 0;
+}
+
+.FeedbackButton__btn {
+    text-transform: capitalize;
+}
